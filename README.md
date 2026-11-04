@@ -89,3 +89,11 @@ in the clips.
   trademarks of their respective owners. Depicted third-party services and
   content are shown for demonstration only.
 ```
+
+### Translate clips (translate-1..4, added to previews-1)
+
+- translate-1: "Sintel" (c) Blender Foundation, https://durian.blender.org/ , CC BY 3.0
+  (https://creativecommons.org/licenses/by/3.0/), shown playing on YouTube in the user's browser; framed, trimmed and
+  zoomed; subtitle translated by OpenCircle. OpenCircle is not affiliated with, sponsored by, or endorsed by Google or
+  YouTube; Google, YouTube and their product names and logos are trademarks of their respective owners.
+- translate-2..4: the game screens are original images made for OpenCircle's previews; they show no real game.
