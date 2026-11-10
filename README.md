@@ -6,7 +6,8 @@
 > - **Code, measurements and report:** [github.com/AmerAlreyahi/OptimaMT](https://github.com/AmerAlreyahi/OptimaMT).
 >
 > The releases below stay online for good: installed OpenCircle versions download their translation models and
-> preview clips from them, each file pinned by its SHA-256. Nothing here will change.
+> preview clips from them, each file pinned by its SHA-256. Nothing here will change, except that one preview clip
+> (translate-page) was added to previews-1 on 2026-11-10.
 
 Offline translation models that [OpenCircle](https://github.com/AmerAlreyahi/OpenCircle) downloads on demand.
 OpenCircle checks every file against a SHA-256 fingerprint built into the app; a file that doesn't match is refused.
