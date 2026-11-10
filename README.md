@@ -1,4 +1,12 @@
-# OpenCircle models
+# OpenCircle models (archived)
+
+> **This repository is archived. The models now live in [OptimaMT](https://huggingface.co/OptimaMT).**
+>
+> - **Models:** [huggingface.co/OptimaMT](https://huggingface.co/OptimaMT), one repository per language pair (49 pairs).
+> - **Code, measurements and report:** [github.com/AmerAlreyahi/OptimaMT](https://github.com/AmerAlreyahi/OptimaMT).
+>
+> The releases below stay online for good: installed OpenCircle versions download their translation models and
+> preview clips from them, each file pinned by its SHA-256. Nothing here will change.
 
 Offline translation models that [OpenCircle](https://github.com/AmerAlreyahi/OpenCircle) downloads on demand.
 OpenCircle checks every file against a SHA-256 fingerprint built into the app; a file that doesn't match is refused.
